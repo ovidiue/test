@@ -1,0 +1,2 @@
+alert('Hello');
+alert($('body'));
